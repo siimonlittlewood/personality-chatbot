@@ -1,0 +1,18 @@
+# files/data
+
+*.csv
+*.json
+*.zip
+
+# api keys
+
+.env
+
+# python
+
+__pycache__/
+*.pyc
+
+# vs code
+
+.vscode/
